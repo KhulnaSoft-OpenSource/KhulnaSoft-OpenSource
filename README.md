@@ -27,11 +27,11 @@
   <a href="https://github.com/khulnasoft-opensource/khulnasoft-opensource/releases">
     <img src="https://img.shields.io/github/v/release/khulnasoft-opensource/khulnasoft-opensource.svg?style=flat" alt="GitHub Release">
   </a>
-  <a href="https://discord.gg/U2peSNf23P">
+  <a href="https://discord.gg/58KbV5w2">
     <img src="https://img.shields.io/discord/714698561081704529.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
   </a>
-  <a href="https://twitter.com/saucedopen">
-    <img src="https://img.shields.io/twitter/follow/saucedopen?label=Follow&style=social" alt="Twitter">
+  <a href="https://twitter.com/khulnasoft">
+    <img src="https://img.shields.io/twitter/follow/khulnasoft?label=Follow&style=social" alt="Twitter">
   </a>
 </p>
 
