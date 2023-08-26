@@ -1,5 +1,4 @@
   <h1>🍕 KhulnaSoft OpenSource 🍕</h1>
-  <strong>The path to your next Open Source contribution</strong>
 </div>
 <br>
 <p align="center">
