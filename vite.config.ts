@@ -81,7 +81,7 @@ export default defineConfig(({command, mode}: ConfigEnv): UserConfig => {
       minify: isProd && isBuild,
       inject: {
         data: {
-          title: `Open Sauced v${process.env.npm_package_version}`,
+          title: `KhulnaSoft OpenSource v${process.env.npm_package_version}`,
           date: new Date().toISOString(),
         },
       },
@@ -114,9 +114,9 @@ export default defineConfig(({command, mode}: ConfigEnv): UserConfig => {
       'apple-touch-icon.png'
     ],
     manifest: {
-      name: 'Open Sauced',
-      short_name: 'Open Sauced',
-      description: 'Open Sauced',
+      name: 'KhulnaSoft OpenSource',
+      short_name: 'KhulnaSoft OpenSource',
+      description: 'KhulnaSoft OpenSource',
       theme_color: '#FFFFFF',
       icons: [
         {
