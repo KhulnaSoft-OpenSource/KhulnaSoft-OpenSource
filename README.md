@@ -34,8 +34,7 @@
 
 KhulnaSoft OpenSource provides structured onboarding for new contributors to open source. This structure provides a way to track your next contributions by leveraging a unique dashboard built on top of the [GitHub GraphQL API](https://docs.github.com/en/free-pro-team@latest/graphql).
 
-[![khulnasoft-opensource-screencap](./src/images/homepage.png)
-](https://okhulnasoft.com)
+](https://khulnasoft.com)
 
 ## 📖 Prerequisites
 
@@ -231,7 +230,7 @@ This project leverages [Remirror](https://remirror.io/) for a delightful experie
 
 ## 🤝 Contributing
 
-We encourage you to contribute to KhulnaSoft OpenSource! Please check out the [Contributing guide](https://docs.okhulnasoft.com/contributing/introduction-to-contributing/) for guidelines about how to proceed.
+We encourage you to contribute to KhulnaSoft OpenSource! Please check out the [Contributing guide](https://docs.khulnasoft.com/contributing/introduction-to-contributing/) for guidelines about how to proceed.
 
 We have a commit utility called [@khulnasoft-opensource/conventional-commit](https://github.com/khulnasoft-opensource/conventional-commit) that helps you write your commits in a way that is easy to understand and process by others.
 
