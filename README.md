@@ -34,8 +34,6 @@
 
 KhulnaSoft OpenSource provides structured onboarding for new contributors to open source. This structure provides a way to track your next contributions by leveraging a unique dashboard built on top of the [GitHub GraphQL API](https://docs.github.com/en/free-pro-team@latest/graphql).
 
-](https://khulnasoft.com)
-
 ## 📖 Prerequisites
 
 In order to run the project from a container we need `node>=14`, `npm>=7` and `docker>=20` installed on our development machines or
