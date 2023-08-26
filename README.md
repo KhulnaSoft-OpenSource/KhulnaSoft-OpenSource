@@ -3,9 +3,6 @@
 </div>
 <br>
 <p align="center">
-  <a href="https://github.com/khulnasoft-opensource/khulnasoft-opensource/actions/workflows/codeql-analysis.yml">
-    <img src="https://github.com/khulnasoft-opensource/khulnasoft-opensource/actions/workflows/codeql-analysis.yml/badge.svg" alt="CodeQL" style="max-width: 100%;">
-  </a>
   <a href="https://github.com/khulnasoft-opensource/khulnasoft-opensource/actions/workflows/compliance.yml">
     <img src="https://github.com/khulnasoft-opensource/khulnasoft-opensource/actions/workflows/compliance.yml/badge.svg" alt="Compliance" style="max-width: 100%;">
   </a>
